@@ -1,3 +1,3 @@
 # mobile_robot_localization_SLAM
 
-Completed projects from Claus Brenner's SLAM Course
+These are my completed projects from Claus Brenner's SLAM Course
